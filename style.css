@@ -1,0 +1,13 @@
+h1, h2, p{
+  color: red;
+}
+body{
+  background-image: url("img.png");
+  background-size: cover;
+}
+.content{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
